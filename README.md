@@ -60,4 +60,5 @@
 
 - 인도시장에서 중고차 거래시 가격을 잘 받을 수 있는 인도 지역을 예측해본 결과 마루티 스즈키 거래시 Kolkata 지역 / 현대 거래시 Kolkata 지역 / 혼다 거래시 Kolkata 지역 / 토요타 거래시 Mumbai 지역 / 벤츠 거래시 Munbai 지역으로 결과가 도출됨
 
-### [자세한 코드와 프로젝트 과정을 보시려면 여기를 클릭](https://nbviewer.jupyter.org/github/Ki-Sung/Linear_Regression_Project-predict_used_car/blob/main/used_car_final.ipynb)
+#### [자세한 코드와 프로젝트 과정 여기를 클릭](https://nbviewer.jupyter.org/github/Ki-Sung/Linear_Regression_Project-predict_used_car/blob/main/used_car_final.ipynb)
+#### [발표 PT 자료는 여기를 클릭](https://docs.google.com/presentation/d/1PEyRtp0xP0YuwS6ERAPXzFo56wYkaIt2/edit#slide=id.p1)
